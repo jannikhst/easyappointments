@@ -1,3 +1,6 @@
+## Customized Fork
+This fork removes the branding and adjusts translations.
+
 <h1 align="center">
     <br>
     <a href="https://easyappointments.org">
