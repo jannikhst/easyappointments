@@ -1,6 +1,19 @@
 ## Customized Fork
 This fork removes the branding and adjusts translations.
 
+## Prefilled Form
+  index.php/booking/
+    ?service=3
+    &provider=5
+    &date=2025-05-01
+    &first_name=Max
+    &last_name=Mustermann
+    &email=max.mustermann@example.com
+    &phone=0123456789
+    &address=Musterstrasse+1
+    &city=Musterstadt
+    &zip=12345
+
 <h1 align="center">
     <br>
     <a href="https://easyappointments.org">
